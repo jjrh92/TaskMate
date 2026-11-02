@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jjrh92/TaskMate">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Eo_circle_green_checkmark.svg/1024px-Eo_circle_green_checkmark.svg.png" alt="Logo" width="200" height="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Eo_circle_green_white_checkmark.svg" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Welcome - Bienvenid@</h3>
@@ -82,7 +82,6 @@ Contact <img src="https://media3.giphy.com/media/dA9zmG7BCtbauczAQY/giphy.gif" w
 
 [Via E-Mail](mailto:contact@julioreyes.dev)
 
-[Via Telegram](https://t.me/jjrh92)
 
 <!-- ACKNOWLEDGMENTS -->
 <h1 align="center"> 
